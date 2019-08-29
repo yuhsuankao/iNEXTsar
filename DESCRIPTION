@@ -1,0 +1,11 @@
+Package: iNEXTsar
+Type: Package
+Title: iNEXT for data sampled without replacement.
+Version: 0.1.0
+Author: Y. H. Kao
+Maintainer: Y. H. Kao <a00000000001.tw@gmail.com>
+Description: iNEXT for data sampled without replacement.
+License: IDN
+Encoding: UTF-8
+LazyData: true
+Imports: stats, graphics, ggplot2, reshape2
